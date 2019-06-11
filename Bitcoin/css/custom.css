@@ -1,0 +1,116 @@
+a {
+    color: #1C1F30;
+    font-size: 14px;
+    font-family: Titillium Web, Arial, sans-serif;
+}
+
+li {
+    margin-right: 14px;
+}
+
+#btc {
+    text-align: center;
+    margin-bottom:
+
+}
+
+#botoes {
+    margin-bottom: 90px;
+}
+
+
+
+
+#logo {
+    font-style: italic;
+    font-size: 36px;
+    width: 132px;
+    vertical-align: middle;
+    margin-top: 1px;
+    font-weight: bolder;
+    color: rgb(82, 79, 79);
+    padding: 0;
+
+
+}
+
+#logo-img {}
+
+/*  nao sei o que é este código.e está criando erro no css
+# {
+    margin-left: 50px;
+}
+*/
+
+.jumbotron {
+    background-color: white;
+    text-align: center;
+    color: #1C1F30;
+    font-family: Titillium Web, Arial, sans-serif;
+    margin-bottom: 0;
+    padding: 0.2rem 2rem;
+    padding-top: 70px;
+
+
+}
+
+h1 {
+    margin-top: 60px;
+    margin-bottom: 57px;
+    font-size: 50px;
+}
+
+.jumbotron2 {
+    background-color: whitegray;
+    background-image: url(../imgs/midle.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+
+}
+
+
+#logo {}
+
+.navbar {
+    padding: 0;
+}
+
+.cartoes {
+    background-color: #14161f;
+    height: 500px;
+    text-align: center;
+}
+
+
+/* Small devices (landscape phones, 544px and up) */
+@media (max-width: 544px) {
+    .titulo {
+        font-size: 30px;
+    }
+}
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    .titulo {
+        font-size: 35px;
+    }
+}
+
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    .titulo {
+        font-size: 35px;
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .titulo {
+        font-size: 35px;
+    }
+
+}
